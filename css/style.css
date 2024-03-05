@@ -1,0 +1,140 @@
+.overskrift{
+    text-align: center;
+    font-size: 80px;
+
+
+}
+#logo{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.loginsbuttons{
+    text-align: center;
+   margin-top: 5%;
+
+}
+#login{
+    color: #ffffff;
+    background-color: rgb(50,115,244);
+    border: none;
+    border-radius: 10px;
+    font-size: 25px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 10px 90px;
+
+}
+#tilmed{
+    color: #ffffff;
+    background-color: rgb(45,45,45);
+    border: none;
+    border-radius: 10px;
+    font-size: 25px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 10px 85px;
+}
+
+/******* Tilmed-side*******/
+
+#tilmedside-overskrift{
+    text-align: center;
+    font-size: 80px;
+}
+#tilmed-button{
+    color: #ffffff;
+    text-align: center;
+    background-color: rgb(50,115,244);
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 10px 100px;
+    height: 45px;
+    margin: 5px 0px;
+}
+
+.container{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+input{
+    margin: 5px 0px;
+    height: 35px;
+    padding: 7px;
+    border-radius:10px;
+    border-color: lightgray;
+    border-bottom-width: thin;
+}
+
+/******* Login-side*******/
+
+#login-overskrift{
+    text-align: center;
+    font-size: 80px;
+}
+
+#login-button{
+    color: #ffffff;
+    text-align: center;
+    background-color: rgb(50,115,244);
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 10px 129px;
+    height: 50px;
+    margin: 50px 0px 10px 0px;
+}
+
+/******* passager-Chauffør *******/
+#valg-dato{
+    color: #ffffff;
+    text-align: center;
+    background-color: rgb(50,115,244);
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 15px 100px;
+    height: 25px;
+    margin: 50px 0px 0px 0px;
+
+
+}
+#date{
+    margin-top: 30px;
+}
+
+#hvad-er-du{
+    color: #ffffff;
+    text-align:center;
+    background-color: rgb(50,115,244);
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 15px 100px;
+    height: 25px;
+    margin: 50px 0px 0px 0px;
+
+}
+.container-passager{
+
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    padding: 15px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
